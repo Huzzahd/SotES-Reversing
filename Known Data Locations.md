@@ -21,7 +21,7 @@ sotes.exe - .rdata section
 * 0x00450D60 - 0x00454000: Unknown.
 
 sotes.exe - .rsrc section
-* DATA directory (general): Map data for locations (except 1249, stuff like tiles, width/height etc.
+* DATA directory (general): Map data for locations, stuff like tiles, width/height etc.
 * DATA directory (1249): Unknown.
 * DATA directory (1392-1399, 1404): Unknown, probably sprites.
 * DATA directory (1451): Unknown.
